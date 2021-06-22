@@ -1,10 +1,10 @@
 {
   "index_name": "blockstack",
   "start_urls": [
-    "https://docs.blockstack.org/"
+    "https://docs.stacks.co/"
   ],
   "sitemap_urls": [
-    "https://docs.blockstack.org/sitemap.xml"
+    "https://docs.stacks.co/sitemap.xml"
   ],
   "stop_urls": [],
   "selectors": {
